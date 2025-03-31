@@ -22,7 +22,7 @@ _Note: These are examples, you can customize them as you like._
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
+    https://github.com/CodeWithRavi19/faulty-calculator.git
     ```
 
 2.  **Open `index.html` in your web browser.**
